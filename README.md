@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi There, Welcome to my Github profile! 👋 <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi There, Welcome to my Github Profile! 👋 <img height="40"></h1>
 
 <div align=center>
 <a href="https://www.linkedin.com/in/karen-delgado-it/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
