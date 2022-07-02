@@ -1,6 +1,6 @@
-<div align=center>
-Hi There, Welcome to my Github profile! 👋
-</div>
+
+<h1 align="center">Hi There, Welcome to my Github profile! 👋 <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+
 <div align=center>
 <a href="https://www.linkedin.com/in/karen-delgado-it/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
 <a href="https://stackoverflow.com/users/7994352/tana"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
