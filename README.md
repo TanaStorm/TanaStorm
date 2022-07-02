@@ -1,14 +1,11 @@
 <div align=center>
- ### Hi There, Welcome to my Github profile! 👋
+Hi There, Welcome to my Github profile! 👋
 </div>
 <div align=center>
 <a href="https://www.linkedin.com/in/karen-delgado-it/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-<a href="https://stackoverflow.com/users/11837259/ahmed-fathy"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+<a href="https://stackoverflow.com/users/7994352/tana"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
 </div>
-        
-<a href="https://www.linkedin.com/in/karen-delgado-it/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+       
 
 <!--
 **TanaStorm/TanaStorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
