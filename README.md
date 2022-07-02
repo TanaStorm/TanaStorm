@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi There, Welcome to my Github profile! 👋
+<a href="https://www.linkedin.com/in/karen-delgado-it/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
 <!--
 **TanaStorm/TanaStorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
