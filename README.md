@@ -49,15 +49,15 @@
 
 <h3 align="center">Version Control & CI/CD</h3>
  
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 <h3 align="center">RPA</h3>
  
 ![UiPath](https://img.shields.io/badge/UiPath-F05032.svg?&style=flat-square&logo=UiPath&logoColor=white)
-![BluePrism](https://img.shields.io/badge/BluePrism-F05032.svg?&style=flat-square&logo=BluePrism&logoColor=white)
+![BluePrism](https://img.shields.io/badge/BluePrism-071D49.svg?&style=flat-square&logo=BluePrism&logoColor=white)
 
 <h3 align="center">Data Transformations Solutions</h3>
  
