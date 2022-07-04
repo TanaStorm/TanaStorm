@@ -15,7 +15,7 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Kotlin](https://img.shields.io/badge/Kotlin-#7F52FF.svg?logo=kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/#7F52FF.svg?logo=kotlin&logoColor=white)
 
 ![Firebase](https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white)&nbsp;
 
