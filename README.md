@@ -6,18 +6,20 @@
 <a href="https://stackoverflow.com/users/7994352/tana"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
 <a href="https://www.youtube.com/channel/UCTGH9EEl5c0be2sAcqf1d9Q/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white" alt="YouTube" /></a>
 
- <div align=center>
+
  
  <h1 align="center">Tech Stack</h1>
 
 <h3 align="center">Programming Languages</h3>
 
+<div align=center>
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
-
+</div>
+ 
 <h3 align="center">Frontend</h3>
  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -51,7 +53,7 @@
   
   ![Firebase](https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white)
   
-</div>
+
 
 
 
