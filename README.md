@@ -31,7 +31,7 @@
 
 <h3 align="center">Database</h3>
 
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft SQL Server-CC2927.svg?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/MicrosoftSQLServer-CC2927.svg?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=flat-square&logo=firebase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-003B57.svg?&style=flat-square&logo=sqlite&logoColor=white)
