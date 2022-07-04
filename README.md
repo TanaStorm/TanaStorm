@@ -84,8 +84,8 @@
  
  ##Credits
  
-Icons: https://simpleicons.org/ <br>
-Shields: https://shields.io/
+Icons: https://simpleicons.org <br>
+Shields: https://shields.io
   
   
   
