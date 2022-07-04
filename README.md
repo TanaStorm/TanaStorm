@@ -62,7 +62,6 @@
 <h3 align="center">Data Transformations Solutions</h3>
  
  ![SSIS](https://img.shields.io/badge/Microsoft%20SQL%20Integration%20Services%20(SSIS)-CC2927.svg?&style=flat-square&logo=microsoftsqlserver&logoColor=white)
- ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?&style=flat-square&logo=powerbi&logoColor=white)
  ![Pentaho](https://img.shields.io/badge/Pentaho-025E8C.svg?&style=flat-square&logo=pentaho&logoColor=white)
 
 <h3 align="center">IDE</h3>
@@ -78,6 +77,7 @@
 
 ![Microsoft Power Apps](https://img.shields.io/badge/Microsoft%20Power%20Apps-742774.svg?style=flat-square&logo=powerapps&logoColor=white)
 ![Microsoft Power Automate](https://img.shields.io/badge/Microsoft%20Power%20Automate-0066FF.svg?style=flat-square&logo=powerautomate&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?&style=flat-square&logo=powerbi&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61.svg?style=flat-square&logo=virtualbox&logoColor=white)
 ![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=flat-square&logo=selenium&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
