@@ -32,7 +32,7 @@
 <h3 align="center">Database</h3>
  
 ![Firebase](https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-003B57.svg?&style=flat-square&logo=sqlite&logoColor=white)
 
 <h3 align="center">Cloud & Hosting</h3>
  
@@ -47,17 +47,18 @@
 
 <h3 align="center">RPA</h3>
  
-![UiPath](https://img.shields.io/badge/test-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![UiPath](https://img.shields.io/badge/test-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)
 
 <h3 align="center">Data Mining</h3>
 
 <h3 align="center">IDE</h3>
  
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white)
-![Netbeans](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Visual Studio](https://img.shields.io/badge/vscode-007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white) 
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=flat-square&logo=selenium&logoColor=white)
+![Netbeans](https://img.shields.io/badge/-Eclipse-05122A?style=flat-square&logo=eclipse-ide&logoColor=2C2255)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-FF6C37.svg?style=flat-square&logo=postman&logoColor=white)
 
 <h3 align="center">Others</h3>
  
