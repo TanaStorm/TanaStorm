@@ -84,8 +84,8 @@
  
  <h2 align="left">Credits</h2>
  
- Icons from: https://simpleicons.org/
- Shields from: https://shields.io/
+ Icons:https://simpleicons.org/ <br>
+ Shields: https://shields.io/
   
   
   
