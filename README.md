@@ -36,7 +36,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=flat-square&logo=firebase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-003B57.svg?&style=flat-square&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=flat-square&logo=mongodb&logoColor=white)
-![Apache Cassandra](https://img.shields.io/badge/Apache Cassandra-1287B1.svg?style=flat-square&logo=apachecassandra&logoColor=white) 
+![Apache Cassandra](https://img.shields.io/badge/ApacheCassandra-1287B1.svg?style=flat-square&logo=apachecassandra&logoColor=white) 
 
 
 <h3 align="center">Cloud & Hosting</h3>
