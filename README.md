@@ -27,7 +27,7 @@
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat-square&logo=bootstrap&logoColor=563D7C)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 <h3 align="center">Database</h3>
 
@@ -82,7 +82,7 @@
 ![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=flat-square&logo=selenium&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
  
- /*Icons from:https://simpleicons.org/ */
+ --Icons from:https://simpleicons.org/
   
   
   
