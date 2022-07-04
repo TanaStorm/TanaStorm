@@ -40,15 +40,18 @@
 <h3 align="center">Cloud & Hosting</h3>
 
 <h3 align="center">Version Control & CI/CD</h3>
+ 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 
 <h3 align="center">RPA</h3>
+ 
 ![UiPath](https://img.shields.io/badge/test-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 
 <h3 align="center">Data Mining</h3>
 
 <h3 align="center">IDE</h3>
+ 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white)
