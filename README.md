@@ -67,12 +67,12 @@
 
 <h3 align="center">IDE</h3>
  
-![Visual Studio](https://img.shields.io/badge/vscode-007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white) 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=flat-square&logo=visualstudio&logoColor=white) 
+![Visual Studio Code](https://img.shields.io/badge/-Visual20%Studio-007ACC?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 ![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=flat-square&logo=selenium&logoColor=white)
 ![Netbeans](https://img.shields.io/badge/-Eclipse-05122A?style=flat-square&logo=eclipse-ide&logoColor=2C2255)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-FF6C37.svg?style=flat-square&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat-square&logo=postman&logoColor=white)
 
 <h3 align="center">Others</h3>
  
