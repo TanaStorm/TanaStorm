@@ -32,6 +32,7 @@
 <h3 align="center">Database</h3>
  
 ![Firebase](https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 <h3 align="center">Cloud & Hosting</h3>
 
