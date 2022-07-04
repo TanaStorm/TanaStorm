@@ -31,13 +31,13 @@
 
 <h3 align="center">Database</h3>
 
-![Microsoft SQL Server](https://img.shields.io/badge/MicrosoftSQLServer-CC2927.svg?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=flat-square&logo=oracle&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=flat-square&logo=firebase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?&style=flat-square&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=flat-square&logo=mongodb&logoColor=white)
-![Apache Cassandra](https://img.shields.io/badge/ApacheCassandra-1287B1.svg?style=flat-square&logo=apachecassandra&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/Mongo%20DB-47A248.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Apache Cassandra](https://img.shields.io/badge/Apache%20Cassandra-1287B1.svg?style=flat-square&logo=apachecassandra&logoColor=white) 
 
 
 <h3 align="center">Cloud & Hosting</h3>
@@ -57,18 +57,18 @@
 <h3 align="center">RPA</h3>
  
 ![UiPath](https://img.shields.io/badge/UiPath-F05032.svg?&style=flat-square&logo=UiPath&logoColor=white)
-![BluePrism](https://img.shields.io/badge/BluePrism-071D49.svg?&style=flat-square&logo=BluePrism&logoColor=white)
+![BluePrism](https://img.shields.io/badge/Blue%20Prism-071D49.svg?&style=flat-square&logo=BluePrism&logoColor=white)
 
 <h3 align="center">Data Transformations Solutions</h3>
  
- ![SSIS](https://img.shields.io/badge/MicrosoftSQLServerSSIS-CC2927.svg?&style=flat-square&logo=microsoftsqlserver&logoColor=white)
- ![Power BI](https://img.shields.io/badge/PowerBI-F2C811.svg?&style=flat-square&logo=powerbi&logoColor=white)
+ ![SSIS](https://img.shields.io/badge/Microsoft%20SQL%20Server%20SSIS-CC2927.svg?&style=flat-square&logo=microsoftsqlserver&logoColor=white)
+ ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?&style=flat-square&logo=powerbi&logoColor=white)
  ![Pentaho](https://img.shields.io/badge/Pentaho-025E8C.svg?&style=flat-square&logo=pentaho&logoColor=white)
 
 <h3 align="center">IDE</h3>
  
-![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=flat-square&logo=visualstudio&logoColor=white) 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio-007ACC?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visualstudio&logoColor=white) 
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=flat-square&logo=selenium&logoColor=white)
 ![Netbeans](https://img.shields.io/badge/-Eclipse-05122A?style=flat-square&logo=eclipse-ide&logoColor=2C2255)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
@@ -77,7 +77,7 @@
 <h3 align="center">Others</h3>
  
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/virtualbox-183A61.svg?style=flat-square&logo=virtualbox&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61.svg?style=flat-square&logo=virtualbox&logoColor=white)
   
   
   
