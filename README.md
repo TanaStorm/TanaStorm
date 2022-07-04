@@ -35,6 +35,8 @@
 ![SQLite](https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 <h3 align="center">Cloud & Hosting</h3>
+ 
+![Azure](https://img.shields.io/badge/Azure-0078D4?&style=flat-square&logo=microsoftazure&logoColor=white)
 
 <h3 align="center">Version Control & CI/CD</h3>
  
