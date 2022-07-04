@@ -68,16 +68,21 @@
 <h3 align="center">IDE</h3>
  
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visualstudio&logoColor=white) 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=flat-square&logo=selenium&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Netbeans](https://img.shields.io/badge/-Eclipse-05122A?style=flat-square&logo=eclipse-ide&logoColor=2C2255)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat-square&logo=postman&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=flat-square&logo=eclipseide&logoColor=white)
 
 <h3 align="center">Others</h3>
- 
-![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
+
+![Microsoft Power Apps](https://img.shields.io/badge/Microsoft%20Power%20Apps-742774.svg?style=flat-square&logo=powerapps&logoColor=white)
+![Microsoft Power Automate](https://img.shields.io/badge/Microsoft%20Power%20Automate-0066FF.svg?style=flat-square&logo=powerautomate&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61.svg?style=flat-square&logo=virtualbox&logoColor=white)
+![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=flat-square&logo=selenium&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
+ 
+ /*Icons from:https://simpleicons.org/ */
   
   
   
