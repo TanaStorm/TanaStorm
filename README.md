@@ -29,6 +29,7 @@
 
 <h3 align="center">Database</h3>
 ![Firebase](https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
 <h3 align="center">Cloud & Hosting</h3>
 
