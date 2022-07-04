@@ -6,6 +6,7 @@
 <a href="https://stackoverflow.com/users/7994352/tana"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
 <a href="https://www.youtube.com/channel/UCTGH9EEl5c0be2sAcqf1d9Q/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white" alt="YouTube" /></a>
 
+ <div align=center>
  
  <h1 align="center">Tech Stack</h1>
 
@@ -19,6 +20,7 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
 
 <h3 align="center">Frontend</h3>
+ 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -47,7 +49,9 @@
 ![Netbeans](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
 
 <h3 align="center">Others</h3>
- </div>
+  
+</div>
+
 
 
 
