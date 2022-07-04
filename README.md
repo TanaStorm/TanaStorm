@@ -14,8 +14,8 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Kotlin](https://img.shields.io/badge/#7F52FF.svg?logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white)
 
 ![Firebase](https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white)&nbsp;
 
