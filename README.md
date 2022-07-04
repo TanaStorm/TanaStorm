@@ -42,7 +42,7 @@
 
 <h3 align="center">Cloud & Hosting</h3>
 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4.svg?style=flat-square&logo=googlecloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=flat-square&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?&style=flat-square&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-E26208.svg?style=flat-square&logo=amazonaws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=flat-square&logo=firebase&logoColor=white)
@@ -82,7 +82,10 @@
 ![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=flat-square&logo=selenium&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
  
- --Icons from:https://simpleicons.org/
+ <h3 align="left">Credits</h3>
+ 
+ - Icons from: https://simpleicons.org/
+ - Shields from: https://shields.io/
   
   
   
