@@ -8,14 +8,9 @@
 </div>
  
  <h1 align="center">Tech Stack</h1>
-### &nbsp;Tech Stack
-### &nbsp;Programming Languages
 
-<h3 align="center">Languages</h3>
-<p align="center">
- ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
- </p>
+<h3 align="center">Programming Languages</h3>
+### &nbsp;Programming Languages
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
