@@ -53,7 +53,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-<h3 align="center">RPA</h3>
+<h3 align="center">Robotic Process Automation (RPA)</h3>
  
 ![UiPath](https://img.shields.io/badge/UiPath-F05032.svg?&style=flat-square&logo=UiPath&logoColor=white)
 ![BluePrism](https://img.shields.io/badge/Blue%20Prism-071D49.svg?&style=flat-square&logo=BluePrism&logoColor=white)
