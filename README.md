@@ -10,7 +10,7 @@
  
  <h1 align="center">Tech Stack</h1>
 
-<h3 align="center">Programming Languages</h3>
+<h3 align="center">Backend</h3>
 
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
@@ -35,15 +35,17 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=flat-square&logo=oracle&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=flat-square&logo=firebase&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-003B57.svg?&style=flat-square&logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?&style=flat-square&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![Apache Cassandra](https://img.shields.io/badge/ApacheCassandra-1287B1.svg?style=flat-square&logo=apachecassandra&logoColor=white) 
 
 
 <h3 align="center">Cloud & Hosting</h3>
- 
+
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4.svg?style=flat-square&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?&style=flat-square&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-E26208.svg?style=flat-square&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=flat-square&logo=firebase&logoColor=white)
 
 <h3 align="center">Version Control & CI/CD</h3>
  
