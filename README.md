@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/karen-delgado-it/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
 <a href="https://stackoverflow.com/users/7994352/tana"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
 <a href="https://www.youtube.com/channel/UCTGH9EEl5c0be2sAcqf1d9Q/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white" alt="YouTube" /></a>
-</div>
+
  
  <h1 align="center">Tech Stack</h1>
 
@@ -27,13 +27,13 @@
 
 
 <h3 align="center">Database</h3>
-![Firebase](https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white)
 
 <h3 align="center">Cloud & Hosting</h3>
 
 <h3 align="center">Version Control & CI/CD</h3>
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 
 <h3 align="center">RPA</h3>
 ![UiPath](https://img.shields.io/badge/test-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)&nbsp;
@@ -47,6 +47,7 @@
 ![Netbeans](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
 
 <h3 align="center">Others</h3>
+ </div>
 
 
 
