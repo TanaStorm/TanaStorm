@@ -50,15 +50,20 @@
 <h3 align="center">Version Control & CI/CD</h3>
  
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 <h3 align="center">RPA</h3>
  
-![UiPath](https://img.shields.io/badge/test-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)
+![UiPath](https://img.shields.io/badge/UiPath-F05032.svg?&style=flat-square&logo=UiPath&logoColor=white)
+![BluePrism](https://img.shields.io/badge/BluePrism-F05032.svg?&style=flat-square&logo=BluePrism&logoColor=white)
 
-<h3 align="center">Data Mining</h3>
+<h3 align="center">Data Transformations Solutions</h3>
+ 
+ ![SSIS](https://img.shields.io/badge/MicrosoftSQLServerSSIS-CC2927.svg?&style=flat-square&logo=microsoftsqlserver&logoColor=white)
+ ![Power BI](https://img.shields.io/badge/PowerBI-F2C811.svg?&style=flat-square&logo=powerbi&logoColor=white)
+ ![Pentaho](https://img.shields.io/badge/Pentaho-025E8C.svg?&style=flat-square&logo=pentaho&logoColor=white)
 
 <h3 align="center">IDE</h3>
  
