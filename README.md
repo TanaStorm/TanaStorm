@@ -31,7 +31,7 @@
 
 <h3 align="center">Database</h3>
  
-![Firebase](https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23316192.svg?style=flat-square&logo=firebase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-003B57.svg?&style=flat-square&logo=sqlite&logoColor=white)
 
 <h3 align="center">Cloud & Hosting</h3>
@@ -40,8 +40,8 @@
 
 <h3 align="center">Version Control & CI/CD</h3>
  
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
@@ -63,6 +63,7 @@
 <h3 align="center">Others</h3>
  
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
+![VirtualBox]https://img.shields.io/badge/virtualbox-183A61.svg?style=flat-square&logo=virtualbox&logoColor=white)
   
   
   
