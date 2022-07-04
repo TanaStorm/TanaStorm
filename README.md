@@ -2,7 +2,7 @@
 <h1 align="center">Hi There, Welcome to my GitHub Profile! 👋 <img height="40"></h1>
 
 <div align=center>
-<a href="https://www.linkedin.com/in/karen-delgado-it/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/karen-delgado-it/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
 <a href="https://stackoverflow.com/users/7994352/tana"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
 <a href="https://www.youtube.com/channel/UCTGH9EEl5c0be2sAcqf1d9Q/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white" alt="YouTube" /></a>
 
