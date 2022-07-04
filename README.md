@@ -28,7 +28,6 @@
 
 
 <h3 align="center">Database</h3>
-![Firebase](https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
 <h3 align="center">Cloud & Hosting</h3>
@@ -49,6 +48,8 @@
 ![Netbeans](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
 
 <h3 align="center">Others</h3>
+  
+  ![Firebase](https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white)
   
 </div>
 
