@@ -82,10 +82,10 @@
 ![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=flat-square&logo=selenium&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
  
- <h2 align="left">Credits</h2>
+ <h4 align="left">Credits</h4>
  
- Icons:https://simpleicons.org/ <br>
- Shields: https://shields.io/
+- Icons:https://simpleicons.org/ <br>
+- Shields: https://shields.io/
   
   
   
